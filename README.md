@@ -47,7 +47,7 @@ I thrive on building projects that solve challenges and inspire creativity
 ## 🤝 Let's Connect  
 Want to chat about development, collaborate on a project, or share ideas? Here’s how you can reach me:  
 - 📧 Email: **imanebouabidi12@gmail.com**  
-- 🌐 LinkedIn: https://www.linkedin.com/in/imane-bouabidi-4aa15b275/(#)  
+- 🌐 LinkedIn: https://www.linkedin.com/in/imane-bouabidi-4aa15b275
 
 ---
 
