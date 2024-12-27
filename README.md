@@ -6,9 +6,9 @@ Hi there! 👋 I’m Imane, a developer who loves crafting efficient solutions a
 
 ## 🧭 About Me  
 - 🎓 **Student at YouCode**, sharpening my skills in software development and project management.  
-- 💡 Always curious, always learning—currently diving into **Java 8**, **Spring Boot**, and **Functional Programming**.  
+- 💡 Always curious, always learning—currently diving into **Java**, **Spring Boot**, and **Functional Programming**.  
 - 🌍 From Morocco, with a keen interest in global trends and innovation.  
-- 💼 Interested in building tools that matter, with a dream of contributing internationally (hello, South Korea! 🇰🇷).  
+- 💼 Interested in building tools that matter, with a dream of contributing internationally.  
 
 ---
 
